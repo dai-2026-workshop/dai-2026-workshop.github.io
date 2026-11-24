@@ -1,10 +1,10 @@
 # DAI 2026 Workshop site
 
-Standalone static GitHub Pages site for the DAI 2026 AI Scientist & Agents Workshop. It uses `index.html`, `styles.css`, and the speaker photos in `assets/`; there is no build step or external asset dependency.
+Standalone static GitHub Pages site for the DAI 2026 AI Scientist & Agents Workshop. The English page is at `/`; the Simplified Chinese page is at `/zh/`. Each page uses one language, with a navigation link to switch between them. The site uses static HTML, CSS, and the speaker photos in `assets/`; there is no build step or external asset dependency.
 
 ## Published site
 
-This site is prepared for the public repository `dai-2026-workshop/dai-2026-workshop.github.io` and the URL `https://dai-2026-workshop.github.io/`. Enable GitHub Pages from the `main` branch and `/ (root)` in the repository's Pages settings.
+The site is published from the public repository `dai-2026-workshop/dai-2026-workshop.github.io` at `https://dai-2026-workshop.github.io/`; Chinese is available at `https://dai-2026-workshop.github.io/zh/`. GitHub Pages deploys from the `main` branch and `/ (root)`.
 
 The organization and repository are public so the site can be hosted on the GitHub Free plan.
 
