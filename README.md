@@ -10,4 +10,4 @@ The organization and repository are public so the site can be hosted on the GitH
 
 ## Source scope
 
-The page follows the supplied workshop schedule and speaker document. It keeps the time slots as listed, including the closing slot, and does not add a date or venue. Lianghao Xia's biography, talk title, and abstract were blank in the source, so the page identifies those details as not provided. The speaker biographies and talk abstracts are included in expandable sections.
+The page follows the supplied workshop schedule and speaker materials. It keeps the time slots as listed, including the closing slot, and does not add a date or venue. Lianghao Xia's expanded biography, talk title, and abstract come from a later program update supplied for the site. Speaker biographies and talk abstracts are shown in expandable sections.
