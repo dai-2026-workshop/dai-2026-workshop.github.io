@@ -290,6 +290,7 @@ html[lang="zh-CN"] body {
 }
 html[lang="zh-CN"] h1 { letter-spacing: -.045em; }
 html[lang="zh-CN"] .speaker-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+html[lang="zh-CN"] .speaker-photo { width: 180px; max-width: 100%; aspect-ratio: 4 / 5; margin: 15px auto 16px; }
 html[lang="zh-CN"] .speaker-card details p { font-size: 12px; line-height: 1.85; }
 
 @media (max-width: 900px) {
