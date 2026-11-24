@@ -1,6 +1,6 @@
 # DAI 2026 Workshop site
 
-Standalone static GitHub Pages site for the DAI 2026 AI Scientist & Agents Workshop. It uses `index.html` and `styles.css`; there is no build step or external asset dependency.
+Standalone static GitHub Pages site for the DAI 2026 AI Scientist & Agents Workshop. It uses `index.html`, `styles.css`, and the speaker photos in `assets/`; there is no build step or external asset dependency.
 
 ## Published site
 
